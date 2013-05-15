@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "HK_Multi", "HK_Multi.cproj", "{2A8D5CEC-A08A-4440-9B24-6F68216D291A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8D5CEC-A08A-4440-9B24-6F68216D291A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{2A8D5CEC-A08A-4440-9B24-6F68216D291A}.Debug|AVR.Build.0 = Debug|AVR
+		{2A8D5CEC-A08A-4440-9B24-6F68216D291A}.Release|AVR.ActiveCfg = Release|AVR
+		{2A8D5CEC-A08A-4440-9B24-6F68216D291A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
